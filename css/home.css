@@ -19,7 +19,7 @@ h1 {
 
 select,
 option {
-    background-color: black;
+    background-color: rgb(39, 7, 7);
     color: white;
     font-size: 24px;
     padding: 0 1em;
